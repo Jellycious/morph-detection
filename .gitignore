@@ -1,0 +1,12 @@
+__pycache__/
+datasets/
+analysis/
+examples/
+images/
+results/
+thirdparty/
+tmpresults/
+*.png
+*.jpg
+*.pyc
+predictors/
